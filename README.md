@@ -2,6 +2,10 @@
 
 *TabPro* will help you to manage your browser tabs using shortcuts. 
 
+## Installation
+
+Available at Firefox Add-on listing - https://addons.mozilla.org/en-US/firefox/addon/tabpro/
+
 ## Demo
 
 [![TabPro](https://img.youtube.com/vi/3Aj75anpWJ0/maxresdefault.jpg)](https://youtu.be/3Aj75anpWJ0)
